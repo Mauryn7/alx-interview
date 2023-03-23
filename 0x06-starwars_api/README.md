@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 0x06. Star Wars API
 
 ### Task
@@ -16,6 +17,9 @@ File: 0-starwars_characters.js
 
 ```
 
+=======
+My read me file
+>>>>>>> 151dc2ceac70c9dc598ea123c74216606d7a6ed0
 =======
 My read me file
 >>>>>>> 151dc2ceac70c9dc598ea123c74216606d7a6ed0
